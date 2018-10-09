@@ -39,7 +39,7 @@ body {
 .spectrum div {
   font: inherit;
   padding: 0 20px;
-  color: ##F781F3;
+  color: #00FF00	;
   overflow: auto;
   opacity: 0.9;
 }
@@ -55,11 +55,11 @@ body {
 }
 
 .light {
-  background-color: Sienna;
+  background-color: Pink;
 }
 
 .city {
-  background-color: SaddleBrown;
+  background-color: Gray;
 }
 
 .vienna {
@@ -67,7 +67,7 @@ body {
 }
 
 .italian {
-  background-color: Black;
+  background-color: Green;
 }
 
 /* Typography */
