@@ -11,7 +11,7 @@ body {
 }
 
 /** Header styles **/
-.header {
+.header { 
   background-image: url(https://raw.githubusercontent.com/karalorissa/school/master/35971243_1754371777963354_1773299031951278080_n.jpg);
   height: 400px;
   background-position: center center;
